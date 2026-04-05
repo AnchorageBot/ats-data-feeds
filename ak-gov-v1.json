@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-03-23",
+  "governor": {
+    "governor_id": "dunleavy_mike",
+    "name": "Mike Dunleavy",
+    "party": "Republican",
+    "term_start": "2018-12-03",
+    "term_end": "2026-12-01"
+  },
+  "administrative_orders": [
+    {
+      "order_number": "362",
+      "date": "2026-01-19",
+      "title": "Constitutional Budget Reserve Fund Investment Transparency",
+      "summary": "Directs the Department of Revenue to promulgate regulations by July 1, 2026 governing non-routine investments (NRIs) from the Constitutional Budget Reserve Fund (CBRF) subaccount, following an external independent review of a 2025 NRI. Requires formal presentation to the Investment Advisory Committee, OMB budget projections, and attorney general certification before any NRI is executed. Also directs the Department of Law to regulate outside legal counsel engagement.",
+      "category": "fiscal",
+      "governor_id": "dunleavy_mike",
+      "full_text_url": "https://gov.alaska.gov/admin-orders/administrative-order-no-362/"
+    },
+    {
+      "order_number": "361",
+      "date": "2025-10-01",
+      "title": "Recreational Trails Program Transfer to DOT&PF",
+      "summary": "Transfers administration of the federally funded Recreational Trails Program (RTP) from the Department of Natural Resources (DNR) to the Department of Transportation and Public Facilities (DOT&PF), effective Federal Fiscal Year 2026. Establishes a new Alaska Recreational Trail Advisory Committee (ARTAC) within DOT&PF and amends Administrative Order 222 to refocus the existing Outdoor Recreation Trails Advisory Board on the Land and Water Conservation Fund program.",
+      "category": "infrastructure",
+      "governor_id": "dunleavy_mike",
+      "full_text_url": "https://gov.alaska.gov/admin-orders/administrative-order-no-361/"
+    },
+    {
+      "order_number": "360",
+      "date": "2025-08-04",
+      "title": "Regulatory Reform Initiative",
+      "summary": "Rescinds Administrative Orders 157 and 266 and replaces them with a comprehensive Regulatory Reform Initiative. Directs all executive branch agencies to review and streamline existing regulations, with targets of a 15% reduction in regulatory requirements by December 31, 2026 and a cumulative 25% reduction by December 31, 2027. Requires each agency to designate an Agency Regulatory Liaison (ARL) and establish an annual Unified Regulatory Plan published on the Alaska Online Public Notice System.",
+      "category": "regulatory",
+      "governor_id": "dunleavy_mike",
+      "full_text_url": "https://gov.alaska.gov/admin-orders/administrative-order-no-360/"
+    },
+    {
+      "order_number": "359",
+      "date": "2025-08-04",
+      "title": "Government Efficiency Review",
+      "summary": "Directs the Office of Management and Budget to lead an annual Government Efficiency Review of all executive branch agencies to identify cost savings, streamline operations, modernize processes, and improve transparency in public spending. Initial focus areas include grants to non-state entities and accounts payable. Agencies are required to use technology and artificial intelligence to enhance accountability in how public dollars are spent.",
+      "category": "fiscal",
+      "governor_id": "dunleavy_mike",
+      "full_text_url": "https://gov.alaska.gov/admin-orders/administrative-order-no-359/"
+    },
+    {
+      "order_number": "358",
+      "date": "2025-05-09",
+      "title": "Fiscal Restraint and Operational Efficiency Order",
+      "summary": "Implements an immediate statewide freeze on out-of-state travel, new hiring, and new regulation packages across all executive branch agencies in response to declining oil revenues and a projected shortfall of hundreds of millions of dollars. Oil production revenue has dropped from roughly 90% of the unrestricted general fund in the 1980s to approximately 40% today, with FY2026 oil price forecast at $68 per barrel. Waiver process established for public safety and essential service exemptions.",
+      "category": "fiscal",
+      "governor_id": "dunleavy_mike",
+      "full_text_url": "https://gov.alaska.gov/admin-orders/administrative-order-no-358/"
+    }
+  ]
+}
