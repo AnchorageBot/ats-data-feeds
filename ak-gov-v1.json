@@ -1,12 +1,12 @@
 {
-  "schema_version": "1.0",
-  "last_updated": "2026-03-23",
+  "schema_version": "1.1",
+  "last_updated": "2026-06-10",
   "governor": {
     "governor_id": "dunleavy_mike",
     "name": "Mike Dunleavy",
     "party": "Republican",
     "term_start": "2018-12-03",
-    "term_end": "2026-12-01"
+    "term_end": "2026-12-06"
   },
   "administrative_orders": [
     {
@@ -53,6 +53,15 @@
       "category": "fiscal",
       "governor_id": "dunleavy_mike",
       "full_text_url": "https://gov.alaska.gov/admin-orders/administrative-order-no-358/"
+    }
+  ],
+  "overridden_vetoes": [
+    {
+      "bill_id": 1934839,
+      "action_date": "2025-05-19",
+      "governor_id": "dunleavy_mike",
+      "bill_title": "HB 57 — Education: Funding (BSA increase; veto overridden 46-14 on 2025-05-20)",
+      "override_result": "overridden"
     }
   ]
 }
