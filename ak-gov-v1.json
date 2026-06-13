@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "last_updated": "2026-06-10",
+  "schema_version": "1.2",
+  "last_updated": "2026-06-12",
   "governor": {
     "governor_id": "dunleavy_mike",
     "name": "Mike Dunleavy",
@@ -58,9 +58,10 @@
   "overridden_vetoes": [
     {
       "bill_id": 1934839,
+      "bill_number": "HB57",
       "action_date": "2025-05-19",
       "governor_id": "dunleavy_mike",
-      "bill_title": "HB 57 — Education: Funding (BSA increase; veto overridden 46-14 on 2025-05-20)",
+      "bill_title": "Education: Funding (BSA increase; veto overridden 46-14 on 2025-05-20)",
       "override_result": "overridden"
     }
   ]
